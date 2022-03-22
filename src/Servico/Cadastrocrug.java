@@ -10,7 +10,9 @@ import Util.Utilmenu;
 public class Cadastrocrug {
 
 
-		
+	/*Grupo Carlos Eduardo
+	Antonio*/
+
 	public static void CadastrarUsuario(){
 			ArrayList <Usuario> arry = new ArrayList <Usuario> (); 
 			 while (true) 
